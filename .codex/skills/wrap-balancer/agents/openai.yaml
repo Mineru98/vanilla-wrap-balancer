@@ -1,0 +1,4 @@
+interface:
+  display_name: "Wrap Balancer"
+  short_description: "Korean headline wrap balancing and QA"
+  default_prompt: "Use $wrap-balancer to balance and verify Korean headline line wrapping."

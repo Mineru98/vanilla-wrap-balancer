@@ -1,0 +1,4 @@
+interface:
+  display_name: "Linebreak Audit"
+  short_description: "Page and deck line-break scanning and QA"
+  default_prompt: "Use $linebreak-audit to scan a page or slide deck for line-break issues and verify fixes."
